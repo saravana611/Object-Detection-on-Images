@@ -8,4 +8,4 @@
 ## Note
 To Run this project you need to download and move your YOLO weights into Data directory where Yolo cfg and fgfd are present.
 
-you can download the [YOLOV3 Pre-trained Model Weights (yolov3.weights) (237 MB)](https://pjreddie.com/media/files/yolov3.weights) here.
+you can download the YOLOV3 Pre-trained Model Weights (yolov3.weights) (237 MB)[here](https://pjreddie.com/media/files/yolov3.weights).
