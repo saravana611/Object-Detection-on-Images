@@ -2,7 +2,7 @@
 
   - YOLO is a state-of-the-art, real-time object detection algorithm. In this notebook, we will apply the YOLO algorithm to detect objects in images, videos and webcam.
 
-  - This project implements an image and video object detection classifier using pretrained yolov3 models. The yolov3 models are taken from the official yolov3 paper which was released in 2018.
+  - This project implements an image object detection classifier using pretrained yolov3 models. The yolov3 models are taken from the official yolov3 paper which was released in the year 2018.
 
 
 ## Note
